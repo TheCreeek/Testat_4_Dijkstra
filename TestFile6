@@ -1,0 +1,17 @@
+Digraph {
+Aachen -> Augsburg [label="69,50"];
+Aachen [label="Aachen,2"];
+Augsburg -> Aachen [label="67,80"];
+Augsburg -> Bamberg [label="63,50"];
+Augsburg -> Berlin [label="40,50"];
+Bamberg -> Berlin [label="23,80"];
+Bamberg [label="Bamberg,1"];
+Bayreuth -> Bamberg [label="26,50"];
+Bayreuth -> Berlin [label="26,130"];
+Bayreuth [label="Bayreuth,4"];
+Berlin -> Bamberg [label="5,50"];
+Berlin [label="Berlin,1"];
+Goeteborg -> Aachen [label="30,200"];
+Goeteborg [label="Goeteborg,10"];
+Augsburg [label="Augsburg,2"];
+}

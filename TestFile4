@@ -1,0 +1,27 @@
+Digraph {
+A -> B [label="2,70"];
+A -> F [label="10,90"];
+A -> G [label="9,120"];
+B -> C [label="4,70"];
+B -> G [label="6,130"];
+C -> D [label="2,30"];
+C -> I [label="15,90"];
+D -> E [label="1,15"];
+D -> F [label="1,60"];
+D -> I [label="1,30"];
+E -> H [label="6,100"];
+F -> E [label="6,90"];
+F -> H [label="5,50"];
+G -> I [label="2,55"];
+H -> G [label="4,120"];
+I -> H [label="15,30"];
+A [label="A,3"];
+B [label="B,2"];
+C [label="C,4"];
+D [label="D,0"];
+E [label="E,0"];
+F [label="F,2"];
+G [label="G,2"];
+H [label="H,1"];
+I [label="I,2"];
+}
